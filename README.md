@@ -31,15 +31,15 @@ Microsoft Copilot
 ## 🧐 Processo de Criação
 Realizada a inserção do prompt "Uma mulher caminhando na praia" no Copitlot. 
 
-## 🚀 Resultados
-
-![](./imagem01.png)
-
 ## 💭 Reflexão (Opcional)
 
 É realmente impressionante a possibilidade de criar imagens utilizando IA. Algo que antes era ficção, hoje é realidade.
 
+## 🚀 Resultados
+
+
 ```
+![](./imagem01.png)
 
 ### Exemplos e Insigths
 
