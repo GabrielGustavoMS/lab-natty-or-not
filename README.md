@@ -33,7 +33,7 @@ Realizada a inserção do prompt "Uma mulher caminhando na praia" no Copitlot.
 
 ## 🚀 Resultados
 
-![](./imagem01.jfif)
+![](./imagem01.png)
 
 ## 💭 Reflexão (Opcional)
 
