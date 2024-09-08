@@ -23,19 +23,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto demonstra o resultado da criação de imagens através do Microsoft Copilot.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Realizada a inserção do prompt "Uma mulher caminhando na praia" no Copitlot. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+![](./imagem01.png)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+É realmente impressionante a possibilidade de criar imagens utilizando IA. Algo que antes era ficção, hoje é realidade.
+
 ```
 
 ### Exemplos e Insigths
